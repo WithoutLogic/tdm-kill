@@ -6,7 +6,7 @@
         "cliName": "tdm-kill",
         "guiName": "tdm-kill"
     },
-    "servers": ["https://raw.githubusercontent.com/WithoutLogic/tdm-kill/master"],
-    "supportUrl": ["https://github.com/WithoutLogic/tdm-kill/issues"],
+    "servers": ["https://raw.githubusercontent.com/WithoutLogic/tdm-kill/master/"],
+    "supportUrl": ["https://github.com/WithoutLogic/tdm-kill/issues/"],
     "disableAutoUpdate": false
 }
