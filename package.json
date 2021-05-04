@@ -1,13 +1,10 @@
 {
+  "main": "./lib/tdm-kill.js",
   "name": "tdm-kill",
   "version": "1.0",
   "description": "",
-  "main": "./lib/tdm-kill.js",
+  "author": "WithoutLogic",
   "engines": {
-    "node": ">=12.4.0"
-  },
-  "scripts": {
-    "manifest": "node ./.manifest.js"
-  },
-  "author": "WithoutLogic"
+    "node": ">=15.0.0"
+  }
 }
