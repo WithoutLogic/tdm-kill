@@ -7,5 +7,5 @@
     "guiName": "tdm-kill"
   },
   "servers": ["https://raw.githubusercontent.com/WithoutLogic/tdm-kill/master"],
-  "supportUrl": ["https://raw.githubusercontent.com/WithoutLogic/tdm-kill/issues"]
+  "supportUrl": ["https://github.com/WithoutLogic/tdm-kill/issues"]
 }
