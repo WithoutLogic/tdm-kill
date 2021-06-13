@@ -4,7 +4,8 @@
         "lib/migration.js": "1e34d29077f2524518b5995bf4481622a0cddecaaaa5cfafe15a3e5c721cee8f",
         "lib/tdm-kill.js": "fcb913f1495b1209d2c6e26e9da86e6bc770e579ab79117796482b4f41b850ea",
         "module.json": "a9654558467ce760fb274a854a6b1a8beb2da27567e807153d2ec0988510fdee",
-        "package.json": "8674d6daf7973862fd434f8b7638e2040f9cd69724d57d076858fcc538b7c72c"
+        "package.json": "8674d6daf7973862fd434f8b7638e2040f9cd69724d57d076858fcc538b7c72c",
+        "settings/settings.json": "893bed4e4229881fc64d478076a039e502a1bbb0e4079ebd3fba5a9e33f43e03"
     },
     "defs": {
         "S_LOAD_TOPO": 3
