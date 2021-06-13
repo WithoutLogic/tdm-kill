@@ -1,8 +1,9 @@
 {
     "files": {
         "README.md": "edbde12eaf28361dd57e0e87cf68bd2ceb4d05eb718404c00ccdcdd1645d5fca",
-        "lib/tdm-kill.js": "fefd97558709858b645b3aa0fbba6b6e987050731d12259d19a63426d526c8ef",
-        "module.json": "4a330c0ec305f815249709624da6d00ff082b845d158f6219ec97c26eb0aa294",
+        "lib/migration.js": "1e34d29077f2524518b5995bf4481622a0cddecaaaa5cfafe15a3e5c721cee8f",
+        "lib/tdm-kill.js": "b5bd82262ae873e4aabf4a2e59e864e82de00c89a584f0105ae9798da974c9b4",
+        "module.json": "a9654558467ce760fb274a854a6b1a8beb2da27567e807153d2ec0988510fdee",
         "package.json": "8674d6daf7973862fd434f8b7638e2040f9cd69724d57d076858fcc538b7c72c"
     },
     "defs": {

@@ -4,7 +4,10 @@
     "description": "Tera DPS Meter process killer.",
     "options": {
         "cliName": "tdm-kill",
-        "guiName": "tdm-kill"
+        "guiName": "tdm-kill",
+        "settingsVersion": 1,
+        "settingsFile": "./settings/settings.json",
+        "settingsMigrator": "./lib/migration.js"
     },
     "servers": ["https://raw.githubusercontent.com/WithoutLogic/tdm-kill/master/"],
     "supportUrl": ["https://github.com/WithoutLogic/tdm-kill/issues/"],
